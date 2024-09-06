@@ -23,3 +23,23 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+## How to work
+
+- install
+
+    ```bash
+    npm i
+    ```
+
+- start frontend
+
+    ```bash
+    npm run dev
+    ```
+
+- deploy sandbox
+
+    ```bash
+    npm ampx sandbox
+    ```
