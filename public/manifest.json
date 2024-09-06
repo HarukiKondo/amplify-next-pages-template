@@ -1,0 +1,36 @@
+{
+    "theme_color": "#32b8f5",
+    "background_color": "#35a5f5",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "amplify-next-pages-template",
+    "short_name": "amplify-next-pages-template",
+    "description": "amplify-next-pages-template",
+    "icons": [
+      {
+        "src": "/icon.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icon.png",
+        "sizes": "256x256",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icon.png",
+        "sizes": "384x384",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/icon.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ]
+  }
